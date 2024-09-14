@@ -31,6 +31,9 @@ This repository contains the following analysis reports, categorized by the prog
 
 8. **Grouping Teams Project: Teams Up for Projects & Assignment on Canvas**
    - **Objective:** Develop team recommendations for academic projects and assignments based on students' interests and previous performance metrics.
+  
+9. **Anti-Reproductive Rights Crimes**
+   - **Objective:** Analyze and cluster Anti-Reproductive Rights Crimes (ARRC) to provide valuable insights into the nature of these offenses by grouping similar crimes into distinct cohorts.
 
 ## Getting Started
 
